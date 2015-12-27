@@ -1,0 +1,3 @@
+name=URL DOWNLOADER PLUGIN
+clazz=com.epam.mentoring.plugin.UrlDownloaderPlugin
+description=(Prints url content. Input -> correct url.)
